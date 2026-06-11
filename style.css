@@ -126,6 +126,7 @@ header .container {
     box-shadow: 0 4px 8px rgba(0,0,0,0.05);
     border-top: 5px solid #2d6a4f;
     transition: transform 0.3s;
+    text-align: center;
 }
 
 .card:hover {
